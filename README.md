@@ -18,7 +18,8 @@ Through Legal Expert Get complete document analysis for legal documents. Get the
 
 ## Workflow
 ![Workflow](https://i.ibb.co/JFS3kSs/3.png)
-##Tech Stack
+
+## Tech Stack
 ![Tech STack](https://i.ibb.co/n7zqxy6/4.png)
 
 ## Accomplishments that we're proud of
